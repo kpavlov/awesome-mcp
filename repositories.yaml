@@ -2719,6 +2719,8 @@ categories:
           - url: https://github.com/QuentinCody/datacite-mcp-server
           - url: https://github.com/kaliaboi/mcp-zotero
             description: Zotero collections for Claude Desktop
+          - url: https://github.com/connerlambden/bgpt-mcp
+            description: Search scientific papers with structured experimental data from full-text studies
       - name: Data APIs
         repos:
           - url: https://github.com/0xDAEF0F/job-searchoor
