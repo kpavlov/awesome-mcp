@@ -1791,6 +1791,8 @@ categories:
         repos:
           - url: https://github.com/anirbanbasu/frankfurtermcp
           - url: https://github.com/berlinbra/alpha-vantage-mcp
+          - url: https://github.com/connerlambden/helium-mcp
+            description: Real-time news with bias scoring, balanced synthesis, live market data, options pricing, and meme search.
           - url: https://github.com/HuggingAGI/mcp-baostock-server
             description: MCP server for BaoStock Chinese stock market data
           - url: https://github.com/JamesANZ/prediction-market-mcp
