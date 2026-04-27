@@ -120,6 +120,8 @@ categories:
           - url: https://github.com/Smart-AI-Memory/empathy-framework
           - url: https://github.com/unibaseio/membase-mcp
             description: Decentralized memory layer for AI agents
+          - url: https://github.com/Beever-AI/beever-atlas
+            description: LLM Wiki memory for team chat (Slack, Discord, Teams)
       - name: RAG
         repos:
           - url: https://github.com/apecloud/ApeRAG
