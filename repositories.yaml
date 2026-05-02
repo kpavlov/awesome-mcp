@@ -2104,6 +2104,8 @@ categories:
       - url: https://github.com/MarketplaceAdPros/amazon-ads-mcp-server
       - url: https://github.com/open-strategy-partners/osp_marketing_tools
         description: MCP server for marketing automation tools
+      - url: https://github.com/Parsegl/parse-mcp
+        description: Look up how any brand surfaces in ChatGPT and Google AI Overviews
       - url: https://github.com/pipeboard-co/meta-ads-mcp
       - url: https://github.com/stape-io/stape-mcp-server
       - url: https://github.com/stape-io/google-tag-manager-mcp-server
