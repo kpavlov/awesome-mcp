@@ -559,6 +559,8 @@ categories:
           - url: https://github.com/vfarcic/dot-ai
             description: Deploy apps to any Kubernetes cluster
           - url: https://github.com/kubesphere/ks-mcp-server
+          - url: https://github.com/kubestellar/console
+            description: AI-powered multi-cluster Kubernetes dashboard with MCP server (kc-agent) for natural language operations
       - name: Virtualization & IaC
         repos:
           - url: https://github.com/bright8192/esxi-mcp-server
