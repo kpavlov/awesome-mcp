@@ -3064,7 +3064,7 @@ categories:
       - url: https://github.com/34892002/bilibili-mcp-js
         description: Bilibili video search MCP service
       - url: https://github.com/Xquik-dev/x-twitter-scraper
-        description: X API integration with 40+ tools, webhooks & MCP server
+        description: X/Twitter API platform with MCP server, REST API, SDKs, webhooks, search, monitoring, and automation workflows
   - name: Sports
     repos:
       - url: https://github.com/guillochon/mlb-api-mcp
