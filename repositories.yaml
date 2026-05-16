@@ -435,6 +435,8 @@ categories:
       - url: https://github.com/AiondaDotCom/mcp-salesforce
       - url: https://github.com/GeLi2001/shopify-mcp
         description: Shopify API for Claude and Cursor
+      - url: https://github.com/Packrift/packrift-mcp
+        description: Packrift packaging catalog, pricing, inventory, and cart helpers
       - url: https://github.com/mafzaal/d365fo-client
         description: Client for Microsoft Dynamics 365 F&O
       - url: https://github.com/raoulbia-ai/mcp-server-for-intercom
