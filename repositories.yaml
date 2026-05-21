@@ -1623,6 +1623,8 @@ categories:
       - url: https://github.com/vespo92/TrueNasCoreMCP
       - url: https://github.com/CyberhavenInc/filesystem-mcpignore
       - url: https://github.com/flesler/mcp-files
+      - url: https://github.com/kochetkov-ma/brewpage-openapi
+        description: Free HTML/Markdown/KV/JSON/file hosting at brewpage.app (no signup)
   - name: Finance
     subcategories:
       - name: Accounting & Budgeting
