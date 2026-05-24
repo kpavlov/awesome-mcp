@@ -1872,6 +1872,8 @@ categories:
             description: QuantConnect trading orchestration
           - url: https://github.com/solangii/upbit-mcp-server
           - url: https://github.com/memetus/okx-mcp-playground
+          - url: https://github.com/longbridge/longbridge-mcp
+            description: Official Longbridge brokerage MCP — 133 tools for US/HK real-time quotes, options, trading, fundamentals, IPO, alerts, DCA & portfolio. OAuth 2.1.
   - name: Frameworks & SDKs
     repos:
       - url: https://github.com/ECF/MCPToolGroups
