@@ -1789,6 +1789,8 @@ categories:
           - url: https://github.com/square/square-mcp-server
           - url: https://github.com/stripe/ai
           - url: https://github.com/Fewsats/fewsats-mcp
+          - url: https://github.com/pyrimid-ai/pyrimid
+            description: MCP server and x402 catalog for paid AI/API products, paid MCP tools, and agent-to-agent commerce on Base USDC.
           - url: https://github.com/Adfin-Engineering/mcp-server-adfin
           - url: https://github.com/razorpay/razorpay-mcp-server
           - url: https://github.com/cashfree/cashfree-mcp
