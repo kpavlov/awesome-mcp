@@ -1190,6 +1190,8 @@ categories:
           - url: https://github.com/micl2e2/code-to-tree
             description: Source code to AST tree conversion
           - url: https://github.com/vezlo/src-to-kb
+          - url: https://github.com/Disentinel/grafema
+            description: Semantic code graph MCP server for AI coding agents — 40+ tools for call-chain tracing, data-flow analysis, and semantic code search
       - name: Debuggers
         repos:
           - url: https://github.com/cameroncooke/reloaderoo
