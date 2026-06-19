@@ -2171,6 +2171,8 @@ categories:
       - url: https://github.com/amekala/ads-mcp
       - url: https://github.com/nowork-studio/toprank
         description: NotFair Google Ads MCP — diagnose, recommend, and execute campaign changes
+      - url: https://github.com/nowork-studio/NotFair
+        description: Claude Code skills for SEO, GEO, Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
   - name: Media Processing
     subcategories:
       - name: 3D & Animation
