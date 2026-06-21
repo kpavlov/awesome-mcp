@@ -2377,6 +2377,8 @@ categories:
         description: MCP server for Opik LLM evaluation platform
       - url: https://github.com/langfuse/mcp-server-langfuse
         description: MCP server for Langfuse LLM observability
+      - url: https://github.com/Necmttn/ax
+        description: Local-first observability for AI coding agent sessions, tool use, skills, and costs
       - url: https://github.com/ntk148v/alertmanager-mcp-server
         description: MCP server for Prometheus Alertmanager integration
   - name: Productivity
