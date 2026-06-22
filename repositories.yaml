@@ -3098,6 +3098,8 @@ categories:
         description: Bilibili video search MCP service
       - url: https://github.com/Xquik-dev/x-twitter-scraper
         description: X/Twitter API platform with MCP, tweet search, profile tweets, follower export, media download, posting, replies, webhooks, REST API, and SDKs
+      - url: https://github.com/kaitoInfra/twitterapi-io-mcp-server
+        description: Hosted MCP for twitterapi.io — Twitter/X data API for AI agents; 12 read-only tools (tweet search, profiles, threads, real-time streaming)
   - name: Sports
     repos:
       - url: https://github.com/guillochon/mlb-api-mcp
